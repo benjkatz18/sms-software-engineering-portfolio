@@ -1,5 +1,7 @@
 # Generic architecture concepts
 
+![Generic event-driven SMS flow](images/generic-architecture.svg)
+
 This is a **textbook-level illustration** of the concepts the project works with: event-driven processing of inbound messages from an external API. It is intentionally generic. It is **not** the real system design, and it omits all internal components, data models, workflows, and vendors.
 
 ```mermaid
